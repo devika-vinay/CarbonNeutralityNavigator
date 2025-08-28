@@ -1,0 +1,433 @@
+Reference Year,Facility Name,Facility Province,Facility Description,Reporting Company,CO2 (tonnes),CH4 (tonnes CO2e),N2O (tonnes CO2e),HFC Total (tonnes CO2e),PFC Total (tonnes CO2e),SF6 (tonnes CO2e),Total Emissions (tonnes CO2e)
+2023,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,499489.984,0.0,0.0,0.0,0.0,499489.984
+2023,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,45084.5423,311.981572,304.713695,0.0,0.0,28.67,45729.90757
+2023,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,103782.811,13.72,81.885,0.0,0.0,0.0,103878.416
+2023,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,51568.061,5320.630952,5649.5032,0.0,0.0,0.0,62538.19515
+2023,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,112342.457,87247.74772,766.46215,0.0,0.0,0.0,200356.6668
+2023,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",627492.594,202.132,9316.075,0.0,0.0,0.0,637010.801
+2023,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,70644.0,0.0,0.0,0.0,0.0,70644.0
+2023,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Cenovus,78516.57395,101.497872,359.81117,0.0,0.0,0.0,78977.88299
+2023,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,41199.0012,0.0,0.0,0.0,0.0,41199.0012
+2023,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,18354.17,78.05252,394.1504,0.0,0.0,0.0,18826.37292
+2023,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,44983.17883,38.804136,235.763875,0.0,0.0,0.0,45257.74685
+2023,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,31904.45,1905.96,58.3,0.0,0.0,0.0,33868.71
+2023,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,22809.57,30.6852,464.545,0.0,0.0,0.0,23304.8002
+2023,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,22086.0,12.11,101.7335,0.0,0.0,0.0,22199.8435
+2023,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,12646.51826,7.10136,57.90515,0.0,0.0,0.0,12711.52477
+2023,Maple Leaf Foods - Brandon,Manitoba,Hog slaughtering,Maple Leaf Foods - Brandon,24373.43,13.44,111.3,0.0,0.0,0.0,24498.17
+2023,Powerhouse,Manitoba,Universities,Powerhouse,30361.0,204.4,272.95,0.0,0.0,0.0,30838.35
+2023,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,60282.315,2662.212,420.555,0.0,0.0,0.0,63365.082
+2023,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,32838.0,18.2,151.05,0.0,0.0,0.0,33007.25
+2023,Gimli Plant,Manitoba,Distilleries,Gimli Plant,28935.88,17.91524,130.7245,0.0,0.0,0.0,29084.51974
+2023,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,39911.519,21.48804,177.70423,0.0,0.0,0.0,40110.71127
+2023,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,31767.1257,18.24648,144.464485,0.0,0.0,0.0,31929.83667
+2023,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1239.538,34935.04,336.55,0.0,0.0,0.0,36511.128
+2023,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,10798.88,259.28,15.9,0.0,0.0,0.0,11074.06
+2023,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,10304.6,320.88,21.2,0.0,0.0,0.0,10646.68
+2023,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,9605.46,250.32,10.6,0.0,0.0,0.0,9866.38
+2023,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,10251.5,248.36,10.6,0.0,0.0,0.0,10510.46
+2023,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,13282.6,1237.04,55.65,0.0,0.0,0.0,14575.29
+2023,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,10399.62,739.48,10.6,0.0,0.0,0.0,11149.7
+2023,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Winnipeg,14349.9094,7.6216,63.6795,0.0,0.0,0.0,14421.2105
+2023,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1701.9935,39116.7952,7.526,0.0,0.0,0.0,40826.3147
+2023,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,16637.81,371.0,15.9,0.0,0.0,0.0,17024.71
+2023,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,13535.75,0.74312,6.098445,0.0,0.0,0.0,13542.59157
+2023,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,17229.54378,10.44778,79.82012,0.0,0.0,0.0,17319.81168
+2023,Daly Unit No. 3 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 3 Battery,12213.61,285.376,12.19,0.0,0.0,0.0,12511.176
+2023,Pierson 04-01-002-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Pierson 04-01-002-28 W1M,17266.43,1806.0,42.4,0.0,0.0,0.0,19114.83
+2023,Solid Waste Area Management Project,Manitoba,Waste Treatment and Disposal,SWAMP Landfill,163.98,18732.9786,1.43365,0.0,0.0,0.0,18898.39225
+2023,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,81.6,13993.9072,0.159,0.0,0.0,0.0,14075.6662
+2023,HyLife Foods LP,Manitoba,Hog slaughtering,HyLife Foods LP,14531.99,0.0,0.0,0.0,0.0,0.0,14531.99
+2022,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,587849.64,0.0,0.0,0.0,0.0,587849.64
+2022,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,19199.45425,135.672348,130.69959,0.0,0.0,125.96,19591.78619
+2022,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,106603.2035,22.70996,131.4665,0.0,0.0,0.0,106757.3799
+2022,HBMS Flin Flon Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Flin Flon Metallurgical Complex,29148.782,36.456,545.37,0.0,0.0,0.0,29730.608
+2022,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,72468.588,5616.576476,6174.5106,0.0,0.0,0.0,84259.67508
+2022,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,239768.8581,88526.8916,1635.3415,0.0,0.0,0.0,329931.0912
+2022,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",691517.199,222.292,24053.255,0.0,0.0,0.0,715792.746
+2022,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,73925.32,0.0,0.0,0.0,0.0,73925.32
+2022,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Cenovus,77755.7279,99.21982,356.01054,0.0,0.0,0.0,78210.95826
+2022,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,41198.64,0.0,0.0,0.0,0.0,41198.64
+2022,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,19694.7364,100.15516,418.70795,0.0,0.0,0.0,20213.59951
+2022,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,47756.8874,40.1632,255.1685,0.0,0.0,0.0,48052.2191
+2022,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,16843.96,1150.52,47.7,0.0,0.0,0.0,18042.18
+2022,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,26427.106,42.0,534.77,211.9,0.0,0.0,27215.776
+2022,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,26802.0,19.32,121.9,0.0,0.0,0.0,26943.22
+2022,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,11245.562,6.2027,51.354085,0.0,0.0,0.0,11303.11879
+2022,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,24193.1427,11.606,105.3375,0.0,0.0,0.0,24310.0862
+2022,Powerhouse,Manitoba,Universities,Powerhouse,31000.0,16.8,151.05,155.195,0.0,0.0,31323.045
+2022,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,62800.0,727.076,413.029,0.0,0.0,0.0,63940.105
+2022,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,31799.0,15.96,129.85,0.0,0.0,0.0,31944.81
+2022,Gimli Plant,Manitoba,Distilleries,Gimli Plant,33856.497,20.216,156.35,0.0,0.0,0.0,34033.063
+2022,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,37695.871,20.7452,169.5205,0.0,0.0,0.0,37886.1367
+2022,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,30750.107,17.42888,833.62163,0.0,0.0,0.0,31601.15751
+2022,Pierson Oil Battery 14-09,Manitoba,Oil and gas extraction (except oil sands),Canadian Natural Resources Limited,15581.3097,907.3736,13.0645,0.0,0.0,0.0,16501.7478
+2022,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1107.2864,33511.49186,23.5426,0.0,0.0,0.0,34642.32086
+2022,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,12948.31,420.28,15.9,0.0,0.0,0.0,13384.49
+2022,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,30910.55,782.04,53.0,0.0,0.0,0.0,31745.59
+2022,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,20569.95,615.44,34.45,0.0,0.0,0.0,21219.84
+2022,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,19433.03,314.44,13.25,0.0,0.0,0.0,19760.72
+2022,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,15585.18,1058.96,55.65,0.0,0.0,0.0,16699.79
+2022,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,9637.72,606.76,10.6,0.0,0.0,0.0,10255.08
+2022,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Winnipeg,15225.3361,8.5624,74.094,0.0,0.0,0.0,15307.9925
+2022,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1566.5368,38745.994,6.943,0.0,0.0,0.0,40319.4738
+2022,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,30403.72,531.72,26.5,0.0,0.0,0.0,30961.94
+2022,Winnipeg Malt Plant,Manitoba,All Other Food Manufacturing,Winnipeg Malt Plant,12096.381,6.44,54.59,0.0,0.0,0.0,12157.411
+2022,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,13525.7882,7.3024,65.7995,0.0,0.0,0.0,13598.8901
+2022,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,17770.27526,9.76262,81.34122,0.0,0.0,0.0,17861.37911
+2022,Daly Unit No. 3 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 3 Battery,11734.192,301.392,13.78,0.0,0.0,0.0,12049.364
+2022,Daly Unit No. 1 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 1 Battery,5012.945,187.376,9.805,0.0,0.0,0.0,5210.126
+2022,Pierson 04-01-002-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Pierson 04-01-002-28 W1M,30358.01,1712.2,50.35,0.0,0.0,0.0,32120.56
+2022,Solid Waste Area Management Project,Manitoba,Waste Treatment and Disposal,SWAMP Landfill,151.28078,18121.55828,1.315195,0.0,0.0,0.0,18274.15426
+2022,MBBT0000106 Oil MWB 08-16-007-29W1,Manitoba,Oil and gas extraction (except oil sands),MBBT0000106 Oil MWB 08-16-007-29W1,73.85902,10529.36444,0.0,0.0,0.0,0.0,10603.22346
+2022,17 WG/ 17 Esc Winnipeg,Manitoba,Defence Services,DND,11852.2671,7.5068,99.9845,0.0,0.0,0.0,11959.7584
+2022,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,90.017,13555.43896,2.5652,0.0,0.0,0.0,13648.02116
+2022,HyLife Foods LP,Manitoba,Hog slaughtering,HyLife Foods LP,14198.7,0.0,0.0,0.0,0.0,0.0,14198.7
+2022,Roquette Canada Ltd.- Portage La Prairie,Manitoba,All Other Food Manufacturing,Roquette Canada Ltd.- Portage La Prairie,18836.57113,12.028464,84.22972,2358.6784,0.0,0.0,21291.50772
+2021,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,487032.0,0.0,0.0,0.0,0.0,487032.0
+2021,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,23317.32659,161.597492,157.70786,0.0,0.0,243.93,23880.56194
+2021,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,109646.4995,14.224,88.51,0.0,0.0,0.0,109749.2335
+2021,HBMS Flin Flon Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Flin Flon Metallurgical Complex,27439.252,44.912,481.24,0.0,0.0,0.0,27965.404
+2021,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,68124.46,5689.856116,6409.59475,0.0,0.0,0.0,80223.91087
+2021,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Limited,288924.7,42770.84,1973.614,0.0,0.0,0.0,333669.154
+2021,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",621223.649,190.316,26050.03,0.0,0.0,0.0,647463.995
+2021,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,77476.0,0.0,0.0,0.0,0.0,77476.0
+2021,General Scrap - Winnipeg,Manitoba,Material Recovery Facilities,Evraz Recycling,1550.19,2.52,13.25,0.0,0.0,0.0,1565.96
+2021,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Cenovus,67790.95126,95.54146,310.41305,0.0,0.0,0.0,68196.90577
+2021,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,43120.0,0.0,0.0,0.0,0.0,43120.0
+2021,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,17169.8885,80.262,367.91275,0.0,0.0,0.0,17618.06325
+2021,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,45622.67373,38.960544,242.770475,0.0,0.0,0.0,45904.40475
+2021,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,39214.98,2328.2,63.6,0.0,0.0,0.0,41606.78
+2021,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,20726.838,30.268,423.735,0.0,0.0,0.0,21180.841
+2021,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,25627.0,18.48,116.6,0.0,0.0,0.0,25762.08
+2021,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,13039.931,7.196616,59.75114,0.0,0.0,0.0,13106.87876
+2021,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,22923.775,11.26888,93.89745,0.0,0.0,0.0,23028.94133
+2021,Powerhouse,Manitoba,Universities,Powerhouse,28000.0,14.84,135.15,146.485,0.0,0.0,28296.475
+2021,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,61500.0,11403.672,358.333,0.0,0.0,0.0,73262.005
+2021,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,37821.0,18.76,156.35,0.0,0.0,0.0,37996.11
+2021,Gimli Plant,Manitoba,Distilleries,Gimli Plant,32228.071,19.712,146.81,0.0,0.0,0.0,32394.593
+2021,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,36650.923,20.1712,165.02875,0.0,0.0,0.0,36836.12295
+2021,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,29709.69,16.996,135.9556,0.0,0.0,0.0,29862.6416
+2021,Pierson Oil Battery 14-09,Manitoba,Oil and gas extraction (except oil sands),Canadian Natural Resources Limited,12318.25065,751.345532,12.842695,0.0,0.0,0.0,13082.43888
+2021,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1345.114,31634.44032,14.15895,0.0,0.0,0.0,32993.71327
+2021,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,13722.16,460.88,23.85,0.0,0.0,0.0,14206.89
+2021,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,41292.92,1083.6,68.9,0.0,0.0,0.0,42445.42
+2021,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,22640.15,835.24,53.0,0.0,0.0,0.0,23528.39
+2021,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,19525.85,323.68,15.9,0.0,0.0,0.0,19865.43
+2021,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,23197.59,1409.24,66.25,0.0,0.0,0.0,24673.08
+2021,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,559.42,253.4,2.65,0.0,0.0,0.0,815.47
+2021,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Rothsay,14892.5581,8.2656,70.7285,0.0,0.0,0.0,14971.5522
+2021,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1701.1589,37986.732,7.5525,0.0,0.0,0.0,39695.4434
+2021,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,29198.19,524.72,29.15,0.0,0.0,0.0,29752.06
+2021,Winnipeg Malt Plant,Manitoba,All Other Food Manufacturing,Winnipeg Malt Plant,11657.584,6.216,52.47,0.0,0.0,0.0,11716.27
+2021,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,10801.8,5.992,50.986,0.0,0.0,0.0,10858.778
+2021,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,17233.1,10.4104,79.712,0.0,0.0,0.0,17323.2224
+2021,Daly Unit No. 3 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 3 Battery,13059.973,361.004,18.55,0.0,0.0,0.0,13439.527
+2021,Daly Unit No. 1 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 1 Battery,6188.928,211.428,9.805,0.0,0.0,0.0,6410.161
+2021,Pierson 04-01-002-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Pierson 04-01-002-28 W1M,21604.85,1365.28,45.05,0.0,0.0,0.0,23015.18
+2021,Merit Functional Foods,Manitoba,All Other Food Manufacturing,Merit Functional Foods,3646.85,1.9992,16.801,0.0,0.0,0.0,3665.6502
+2021,Solid Waste Area Management Project,Manitoba,Waste Treatment and Disposal,SWAMP Landfill,152.98077,17447.19704,1.33295,0.0,0.0,0.0,17601.51076
+2021,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,82.639,12941.1142,0.16695,0.0,0.0,0.0,13023.92015
+2020,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,473593.12,0.0,0.0,0.0,0.0,473593.12
+2020,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,11158.34204,66.830512,76.85424,0.0,0.0,0.0,11302.02679
+2020,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,103978.99,14.448,84.27,0.0,0.0,0.0,104077.708
+2020,HBMS Flin Flon Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Flin Flon Metallurgical Complex,28881.107,49.784,550.67,0.0,0.0,0.0,29481.561
+2020,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,65372.138,5854.379524,6119.51515,0.0,0.0,0.0,77346.03267
+2020,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Limited,188703.889,45420.004,1295.055,0.0,0.0,0.0,235418.948
+2020,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",656674.971,198.548,19639.41527,0.0,0.0,0.0,676512.9343
+2020,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,81167.52,0.0,0.0,0.0,0.0,81167.52
+2020,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1447.96,2.814,11.7925,0.0,0.0,0.0,1462.5665
+2020,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,69963.50705,96.763044,320.71996,0.0,0.0,0.0,70380.99005
+2020,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,47279.68,0.0,0.0,0.0,0.0,47279.68
+2020,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,19458.4562,79.184,417.8785,0.0,0.0,0.0,19955.5187
+2020,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,38919.45373,34.322932,207.90469,0.0,0.0,0.0,39161.68135
+2020,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,36995.08,2379.44,55.65,0.0,0.0,0.0,39430.17
+2020,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,22941.098,32.34,465.1439,0.0,0.0,0.0,23438.5819
+2020,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,23262.0,13.44,100.7,0.0,0.0,0.0,23376.14
+2020,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,14374.94,7.9044,65.7465,0.0,0.0,0.0,14448.5909
+2020,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,15755.8,7.4144,61.851,0.0,0.0,0.0,15825.0654
+2020,Powerhouse,Manitoba,Universities,Powerhouse,29000.0,15.68,140.45,155.195,0.0,0.0,29311.325
+2020,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,50500.0,493.024,334.695,0.0,0.0,0.0,51327.719
+2020,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,35293.0,17.64,145.75,0.0,0.0,0.0,35456.39
+2020,Gimli Plant,Manitoba,Distilleries,Gimli Plant,34092.227,20.636,154.76,0.0,0.0,0.0,34267.623
+2020,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,38218.38,20.888,172.4355,0.0,0.0,0.0,38411.7035
+2020,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,30344.18,17.276,836.817,0.0,0.0,0.0,31198.273
+2020,Pierson Oil Battery 14-09,Manitoba,Oil and gas extraction (except oil sands),Canadian Natural Resources Limited,12124.8946,806.7052,13.144,0.0,0.0,0.0,12944.7438
+2020,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1368.538,30456.68024,24.7245,0.0,0.0,0.0,31849.94274
+2020,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,17729.7,640.92,29.15,0.0,0.0,0.0,18399.77
+2020,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,44040.79,1100.12,82.15,0.0,0.0,0.0,45223.06
+2020,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,28148.12,863.52,55.65,0.0,0.0,0.0,29067.29
+2020,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,26385.33,384.72,21.2,0.0,0.0,0.0,26791.25
+2020,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,14734.44,1027.04,55.65,0.0,0.0,0.0,15817.13
+2020,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,11723.9,820.68,21.2,0.0,0.0,0.0,12565.78
+2020,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Rothsay,16725.3536,9.142,77.9895,0.0,0.0,0.0,16812.4851
+2020,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1454.9574,37566.2224,6.837,0.0,0.0,0.0,39028.0168
+2020,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,27064.73,406.84,23.85,0.0,0.0,0.0,27495.42
+2020,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,12125.8111,6.9244,70.278,0.0,0.0,0.0,12203.0135
+2020,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,12877.83,7.6524,59.519,0.0,0.0,0.0,12945.0014
+2020,Daly Unit No. 3 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 3 Battery,10559.26,237.72,10.6,0.0,0.0,0.0,10807.58
+2020,Daly Unit No. 1 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 1 Battery,10229.91,231.0,10.6,0.0,0.0,0.0,10471.51
+2020,Pierson 04-01-002-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Pierson 04-01-002-28 W1M,13895.963,994.42,36.305,0.0,0.0,0.0,14926.688
+2020,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,118.116,12431.26892,0.24115,0.0,0.0,0.0,12549.62607
+2019,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,468123.04,0.0,0.0,0.0,0.0,468123.04
+2019,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,25451.216,173.254872,171.214115,0.0,0.0,153.925,25949.60999
+2019,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,106553.729,14.392,83.475,0.0,0.0,0.0,106651.596
+2019,HBMS Flin Flon Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Flin Flon Metallurgical Complex,28556.298,50.54,540.335,0.0,0.0,0.0,29147.173
+2019,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,51594.246,11018.27787,2954.8984,0.0,0.0,0.0,65567.42227
+2019,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,259720.0884,51786.7868,1787.266,0.0,0.0,0.0,313294.1412
+2019,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",675422.866,207.788,16289.28527,0.0,0.0,0.0,691919.9393
+2019,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,84993.44,0.0,0.0,0.0,0.0,84993.44
+2019,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1501.77,2.8,13.25,0.0,0.0,0.0,1517.82
+2019,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,75746.775,97.692,220.745,0.0,0.0,0.0,76065.212
+2019,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,49534.24,0.0,0.0,0.0,0.0,49534.24
+2019,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,21649.0501,25.1146,225.9655,0.0,0.0,0.0,21900.1302
+2019,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,43723.26803,34.948564,231.15897,12.6932,0.0,0.0,44002.06876
+2019,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,23350.87699,29.731492,471.882585,0.0,0.0,0.0,23852.49107
+2019,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,24718.0,22.68,121.9,0.0,0.0,0.0,24862.58
+2019,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,13534.0,7.378,61.1885,0.0,0.0,0.0,13602.5665
+2019,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,25518.3,13.1992,149.036,0.0,0.0,0.0,25680.5352
+2019,Powerhouse,Manitoba,Universities,Powerhouse,31.0,16.52,148.4,33.48,0.0,0.0,229.4
+2019,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,29826.0,181.0256,158.046,0.0,0.0,0.0,30165.0716
+2019,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,39386.0,19.6,182.85,0.0,0.0,0.0,39588.45
+2019,Gimli Plant,Manitoba,Distilleries,Gimli Plant,35545.767,22.176,162.71,0.0,0.0,0.0,35730.653
+2019,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,35097.93,0.72968,6.1003,0.0,0.0,0.0,35104.75998
+2019,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,30384.6,0.9884,5.459,0.0,0.0,0.0,30391.0474
+2019,Pierson Oil Battery 14-09,Manitoba,Oil and gas extraction (except oil sands),Canadian Natural Resources Limited,16164.639,1191.12,22.79,0.0,0.0,0.0,17378.549
+2019,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1342.698,29193.59464,22.5515,0.0,0.0,0.0,30558.84414
+2019,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,38333.72,775.88,179.405,0.0,0.0,0.0,39289.005
+2019,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,25252.37,652.96,117.66,0.0,0.0,0.0,26022.99
+2019,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,23202.74,319.48,112.095,0.0,0.0,0.0,23634.315
+2019,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,15753.21,967.4,96.725,0.0,0.0,0.0,16817.335
+2019,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,13824.05,763.56,84.8,0.0,0.0,0.0,14672.41
+2019,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Rothsay,14296.8619,7.8512,65.7995,0.0,0.0,0.0,14370.5126
+2019,Steinbach Class 1 Waste Disposal Ground,Manitoba,Waste Treatment and Disposal,Steinbach Class 1 Waste Disposal Ground,2078.0,17556.532,3.18,0.0,0.0,0.0,19637.712
+2019,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1389.8377,37219.8372,6.572,0.0,0.0,0.0,38616.2469
+2019,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,22494.71,247.24,95.135,0.0,0.0,0.0,22837.085
+2019,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,11437.803,6.5604,81.62,0.0,0.0,0.0,11525.9834
+2019,Pinto 14-30-001-04 W2M,Manitoba,Oil and gas extraction (except oil sands),Pinto 14-30-001-04 W2M,23161.212,5228.384,67.045,0.0,0.0,0.0,28456.641
+2019,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,10655.53,6.4148,49.2635,0.0,0.0,0.0,10711.2083
+2019,SRL NIG CREEK C-039-D/094-H-03,Manitoba,Oil and gas extraction (except oil sands),SRL NIG CREEK C-039-D/094-H-03,26231.90439,2548.18396,382.1247,0.0,0.0,0.0,29162.21305
+2019,SRL NIG CREEK D-039-D,Manitoba,Oil and gas extraction (except oil sands),SRL NIG CREEK D-039-D,25648.83325,2592.76808,476.52565,0.0,0.0,0.0,28718.12698
+2019,Daly Unit No. 3 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 3 Battery,12950.0,0.0,0.0,0.0,0.0,0.0,12950.0
+2019,Daly Unit No. 1 Battery,Manitoba,Oil and gas extraction (except oil sands),Daly Unit No. 1 Battery,10743.0,0.0,0.0,0.0,0.0,0.0,10743.0
+2019,SRL BUICKCREEK D-36-L/094-A-14 003,Manitoba,Oil and gas extraction (except oil sands),SRL BUICKCREEK D-36-L/094-A-14 003,9351.5977,887.92256,238.94785,0.0,0.0,0.0,10478.46811
+2019,GRIFFIN CANADA - WINNIPEG,Manitoba,Steel Foundries,GRIFFIN CANADA - WINNIPEG,27436.20059,390.22088,348.411665,0.0,0.0,0.0,28174.83314
+2019,Pierson 04-01-002-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Pierson 04-01-002-28 W1M,9013.25,578.76,38.3985,0.0,0.0,0.0,9630.4085
+2019,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,97.189,11874.60596,0.1961,0.0,0.0,0.0,11971.99106
+2018,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,460583.48,0.0,0.0,0.0,0.0,460583.48
+2018,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,10563.24,167.929132,47.283685,0.0,0.0,71.675,10850.12782
+2018,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,118398.785,14.84,105.682,0.0,0.0,0.0,118519.307
+2018,HBMS Flin Flon Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Flin Flon Metallurgical Complex,37780.627,51.856,698.01,0.0,0.0,0.0,38530.493
+2018,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,73277.456,15248.324,2617.67,0.0,0.0,0.0,91143.45
+2018,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,294662.0269,12202.2908,3504.307,0.0,0.0,0.0,310368.6247
+2018,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",722929.0,277.172,42633.46606,0.0,0.0,0.0,765839.6381
+2018,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,89092.92,0.0,0.0,0.0,0.0,89092.92
+2018,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1897.44,3.36,15.9,0.0,0.0,0.0,1916.7
+2018,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,75106.532,99.372,214.12,0.0,0.0,0.0,75420.024
+2018,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,51857.12,0.0,0.0,0.0,0.0,51857.12
+2018,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,42337.28,14.0,482.3,11.7,0.0,0.0,42845.28
+2018,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,41218.607,34.331556,230.2744,0.0,0.0,0.0,41483.21296
+2018,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,23080.95,1332.24,140.185,0.0,0.0,0.0,24553.375
+2018,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,21643.211,29.456,434.865,0.0,0.0,0.0,22107.532
+2018,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,26876.0,19.04,121.9,0.0,0.0,0.0,27016.94
+2018,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,26952.35,13.7333,122.5625,0.0,0.0,0.0,27088.6458
+2018,Powerhouse,Manitoba,Universities,Powerhouse,31855.0,17.36,156.35,1690.52,0.0,0.0,33719.23
+2018,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,36168.78,18.2532,17.278,0.0,0.0,0.0,36204.3112
+2018,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,42022.0,20.72,172.25,0.0,0.0,0.0,42214.97
+2018,Gimli Plant,Manitoba,Distilleries,Gimli Plant,35516.64,20.72,166.95,0.0,0.0,0.0,35704.31
+2018,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,30669.2,16.94,143.1,0.0,0.0,0.0,30829.24
+2018,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,28108.9,15.4,129.85,0.0,0.0,0.0,28254.15
+2018,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1208.741,27897.61772,20.39175,0.0,0.0,0.0,29126.75047
+2018,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,18289.1,434.0,100.17,0.0,0.0,0.0,18823.27
+2018,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,32507.78,689.08,160.59,0.0,0.0,0.0,33357.45
+2018,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,20505.14,586.04,102.025,0.0,0.0,0.0,21193.205
+2018,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,19827.56,255.92,99.64,0.0,0.0,0.0,20183.12
+2018,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,18851.19,900.48,100.435,0.0,0.0,0.0,19852.105
+2018,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,16535.42,823.76,95.665,0.0,0.0,0.0,17454.845
+2018,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Rothsay,15128.4355,8.2656,70.119,0.0,0.0,0.0,15206.8201
+2018,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,1123.735,22984.696,5.3,0.0,0.0,0.0,24113.731
+2018,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,17951.4,165.76,74.73,0.0,0.0,0.0,18191.89
+2018,Winnipeg Malt Plant,Manitoba,All Other Food Manufacturing,Winnipeg Malt Plant,12773.578,7.005264,58.524985,0.0,0.0,0.0,12839.10825
+2018,Consumer Foods - Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Consumer Foods - Winnipeg,10706.108,6.0368,54.802,0.0,0.0,0.0,10766.9468
+2018,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,12547.79,7.686,57.77,0.0,0.0,0.0,12613.246
+2018,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,64.18,11172.89796,0.12985,0.0,0.0,0.0,11237.20781
+2017,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,438577.44,0.0,0.0,0.0,0.0,438577.44
+2017,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,39330.693,21.1148,149.937,0.0,0.0,51.23,39552.9748
+2017,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,127664.077,15.848,128.26,0.0,0.0,0.0,127808.185
+2017,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,26193.844,17.92,466.4,0.0,0.0,0.0,26678.164
+2017,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,71784.96,4965.24,3988.25,0.0,0.0,0.0,80738.45
+2017,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,169003.6338,11998.8428,2084.596,0.0,0.0,0.0,183087.0726
+2017,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",570892.24,56505.4,36456.05,0.0,0.0,0.0,663853.69
+2017,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,93328.48,0.0,0.0,0.0,0.0,93328.48
+2017,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1573.86,2.8,13.25,0.0,0.0,0.0,1589.91
+2017,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,76860.647,100.38,220.48,0.0,0.0,0.0,77181.507
+2017,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,54316.64,0.0,0.0,0.0,0.0,54316.64
+2017,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,61811.0,22.428,731.4,58.5,0.0,0.0,62623.328
+2017,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Long Steel North America,39641.01917,32.783184,221.990765,0.0,0.0,0.0,39895.79312
+2017,Waskada 11-30-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 11-30-001-25 W1M,19607.82,1083.04,120.045,0.0,0.0,0.0,20810.905
+2017,HBMS Chisel Lake Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Chisel Lake Mine,19261.467,16.016,302.1,0.0,0.0,0.0,19579.583
+2017,CARBERRY FACTORY,Manitoba,All Other Food Manufacturing,CARBERRY FACTORY,27538.0,18.48,121.9,0.0,0.0,0.0,27678.38
+2017,Ste. Agathe (Canola Crush Plant) Viterra,Manitoba,Oilseed Processing,Ste. Agathe (Canola Crush Plant) Viterra,22556.9,32.172,107.855,0.0,0.0,0.0,22696.927
+2017,General Mills - Winnipeg,Manitoba,All Other Food Manufacturing,General Mills - Winnipeg,4644.81,0.336,2.915,336.6125,0.0,0.0,4984.6735
+2017,Maple Leaf Foods - Brandon,Manitoba,Animal (except Poultry) Slaughtering,Maple Leaf Foods - Brandon,24903.867,12.6112,116.335,0.0,0.0,0.0,25032.8132
+2017,Powerhouse,Manitoba,Universities,Powerhouse,32366.0,17.64,159.0,1550.928,0.0,0.0,34093.568
+2017,Portage la Prairie,Manitoba,Frozen Food Manufacturing,Portage la Prairie,36498.0,18.396,17.4105,0.0,0.0,0.0,36533.8065
+2017,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,Manitoba,Frozen Food Manufacturing,MCCAIN FOODS (CANADA) - PORTAGE LA PRAIRIE,40434.0,19.88,166.95,0.0,0.0,0.0,40620.83
+2017,Gimli Plant,Manitoba,Distilleries,Gimli Plant,33703.9,19.6,177.55,0.0,0.0,0.0,33901.05
+2017,BUNGE CANADA - ALTONA PLANT,Manitoba,Oilseed Processing,Bunge Canada,32889.53,18.7236,160.3515,0.0,0.0,0.0,33068.6051
+2017,BUNGE CANADA - HARROWBY PLANT,Manitoba,Oilseed Processing,Bunge Canada,28266.36,16.0328,137.27,0.0,0.0,0.0,28419.6628
+2017,South Pierson Unit No1 WIW,Manitoba,Oil and gas extraction (except oil sands),Canadian Natural Resources Limited,11025.749,1363.768,11.925,0.0,0.0,0.0,12401.442
+2017,Prairie Green IWMF,Manitoba,Waste Treatment and Disposal,Waste Connections of Canada Inc.,1048.108,26526.51375,19.9174,0.0,0.0,0.0,27594.53915
+2017,HBMS Reed Mine,Manitoba,Copper-Zinc Ore Mining,HBMS Reed Mine,13208.97,16.604,354.57,0.0,0.0,0.0,13580.144
+2017,Sinclair 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 03-04-008-29 W1M,18416.62,614.04,96.195,0.0,0.0,0.0,19126.855
+2017,Sinclair 13-14-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair 13-14-008-29 W1M,29898.76,661.36,157.145,0.0,0.0,0.0,30717.265
+2017,Daly 08-28-009-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Daly 08-28-009-29 W1M,17808.78,523.04,88.775,0.0,0.0,0.0,18420.595
+2017,Cromer 13-10-009-28 W1M,Manitoba,Oil and gas extraction (except oil sands),Cromer 13-10-009-28 W1M,13839.98,101.92,56.18,0.0,0.0,0.0,13998.08
+2017,Waskada 15-21-001-25 W1M,Manitoba,Oil and gas extraction (except oil sands),Waskada 15-21-001-25 W1M,12062.24,840.84,79.235,0.0,0.0,0.0,12982.315
+2017,Goodlands 16-10-001-24 W1M,Manitoba,Oil and gas extraction (except oil sands),Goodlands 16-10-001-24 W1M,15321.7,821.8,77.91,0.0,0.0,0.0,16221.41
+2017,Sinclair C02 03-04-008-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Sinclair C02 03-04-008-29 W1M,420.3,0.7,4.24,0.0,0.0,0.0,425.24
+2017,Winnipeg,Manitoba,Rendering and Meat Processing from Carcasses,Rothsay,15297.061,8.3468,70.8345,0.0,0.0,0.0,15376.2423
+2017,Steinbach Class 1 Waste Disposal Ground,Manitoba,Waste Treatment and Disposal,Steinbach Class 1 Waste Disposal Ground,3243.71,17558.212,13.78,0.0,0.0,0.0,20815.702
+2017,Natural Gas Distribution System,Manitoba,Natural Gas Distribution,Manitoba Hydro,931.61,22829.38,5.3,0.0,0.0,0.0,23766.29
+2017,Kola 12-24-010-29 W1M,Manitoba,Oil and gas extraction (except oil sands),Kola 12-24-010-29 W1M,15127.96,179.2,61.215,0.0,0.0,0.0,15368.375
+2017,Winnipeg Malt Plant,Manitoba,All Other Food Manufacturing,Winnipeg Malt Plant,15628.04,8.680672,55.67862,0.0,0.0,0.0,15692.39929
+2017,Winnipeg Wallboard Plant,Manitoba,Gypsum Product Manufacturing,CertainTeed Gypsum,12173.87,7.4788,56.498,0.0,0.0,0.0,12237.8468
+2017,Portage la Prairie Regional Landfill,Manitoba,Waste Treatment and Disposal,Portage la Prairie Regional Landfill,69.16,10818.9844,0.1325,0.0,0.0,0.0,10888.2769
+2016,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,405388.76,0.0,0.0,0.0,0.0,405388.76
+2016,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,130421.0834,80.108,117.13,0.0,0.0,0.0,130618.3214
+2016,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,27281.06478,18.48,451.56,0.0,0.0,0.0,27751.10478
+2016,Canadian Kraft Paper Industries Ltd.,Manitoba,Paper (except Newsprint) Mills,Canadian Kraft Paper,67009.54865,8465.519944,3908.75,0.0,0.0,0.0,79383.81859
+2016,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,244450.352,12111.19812,2930.5025,0.0,0.0,0.0,259492.0526
+2016,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",606146.0,39109.28028,41879.27315,0.0,0.0,0.0,687134.5534
+2016,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,97701.52246,0.0,0.0,0.0,0.0,97701.52246
+2016,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1687.439941,3.08,13.25,0.0,0.0,0.0,1703.769941
+2016,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,74889.9375,40.656,289.91,0.0,0.0,0.0,75220.5035
+2016,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,56912.79933,0.0,0.0,0.0,0.0,56912.79933
+2016,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,74098.0,22.82,720.8,23.4,0.0,0.0,74865.02
+2015,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,49896.0,385728.0,0.0,0.0,0.0,0.0,435624.0
+2015,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,99281.051,28.98,349.005,0.0,2.1216,16.92,99678.0776
+2015,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,134424.8997,31.584,138.86,0.0,0.0,0.0,134595.3437
+2015,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,28427.29649,18.76,491.31,0.0,0.0,0.0,28937.36649
+2015,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Industries Ltd.,49620.68066,6576.640084,3786.85,0.0,0.0,0.0,59984.17075
+2015,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,296149.1645,12206.87132,3535.471,0.0,0.0,0.0,311891.5068
+2015,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",656243.0313,47614.75505,40735.005,0.0,0.0,0.0,744592.7913
+2015,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,10041.0,102480.0,0.0,0.0,0.0,0.0,112521.0
+2015,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1537.400024,2.52,13.25,0.0,0.0,0.0,1553.170024
+2015,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,75838.78125,41.104,293.62,0.0,0.0,0.0,76173.50525
+2015,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,5844.0,59640.0,0.0,0.0,0.0,0.0,65484.0
+2015,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,83081.0,30.996,795.0,47.52,0.0,0.0,83954.516
+2014,Brady Road Resource Management Facility,Manitoba,Waste Treatment and Disposal,Water & Waste Department,48530.0,372400.0,0.0,0.0,0.0,0.0,420930.0
+2014,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,71963.202,38.5,281.43,0.0,0.0,92.825,72375.957
+2014,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,143453.7582,19.824,142.835,0.0,0.0,0.0,143616.4172
+2014,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,34147.4252,22.008,601.815,0.0,0.0,0.0,34771.2482
+2014,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Industries Ltd.,57350.25049,7477.400224,4293.0,0.0,0.0,0.0,69120.65072
+2014,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,252907.0625,13223.00848,3100.5,0.0,0.0,0.0,269230.571
+2014,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",568772.0,58277.12772,40004.39974,0.0,0.0,0.0,667053.5275
+2014,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,10509.0,107268.0,0.0,0.0,0.0,0.0,117777.0
+2014,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1658.73999,2.52,13.25,0.0,0.0,0.0,1674.50999
+2014,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,77513.5625,42.084,301.835,0.0,0.0,0.0,77857.4815
+2014,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,6125.0,62524.0,0.0,0.0,0.0,0.0,68649.0
+2014,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,78049.0,26.656,707.55,12.87,0.0,0.0,78796.076
+2013,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,47084.0,423332.0,0.0,0.0,0.0,0.0,470416.0
+2013,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,85268.461,44.688,329.13,0.0,0.0,0.0,85642.279
+2013,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,137851.4439,17.64,134.62,0.0,0.0,0.0,138003.7039
+2013,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,31576.87132,21.448,549.08,0.0,0.0,0.0,32147.39931
+2013,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Industries Ltd.,63308.3009,7489.719804,3945.85,0.0,0.0,0.0,74743.87071
+2013,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,106064.9926,11816.26012,1287.5555,0.0,0.0,0.0,119168.8082
+2013,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",661240.0,36208.95572,47838.59474,0.0,0.0,0.0,745287.5505
+2013,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,11018.0,112448.0,0.0,0.0,0.0,0.0,123466.0
+2013,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1624.089966,0.168,0.265,0.0,0.0,0.0,1624.522966
+2013,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,81651.67969,44.38,322.24,0.0,0.0,0.0,82018.29969
+2013,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,6413.0,65464.0,0.0,0.0,0.0,0.0,71877.0
+2013,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,73763.0,29.092,757.9,0.0,0.0,0.0,74549.992
+2013,Waskada Plant (MBGP1000042 and MBBT1000040),Manitoba,Conventional Oil and Gas Extraction,Penn West Exploration,76395.38351,6716.119228,93.439,0.0,0.0,0.0,83204.94174
+2012,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,45558.0,464996.0,0.0,0.0,0.0,0.0,510554.0
+2012,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,67728.841,36.736,259.965,0.0,0.0,0.0,68025.542
+2012,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,142626.3519,18.592,135.15,0.0,0.0,0.0,142780.0939
+2012,HBMS Metallurgical Complex,Manitoba,Copper-Zinc Ore Mining,HBMS Metallurgical Complex,34363.02998,21.532,583.53,0.0,0.0,0.0,34968.09198
+2012,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Industries Ltd.,80528.51154,5313.560028,3548.35,0.0,0.0,0.0,89390.42157
+2012,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",562639.0,69122.2261,43918.71686,0.0,0.0,0.0,675679.943
+2012,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,11540.0,117796.0,0.0,0.0,0.0,0.0,129336.0
+2012,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1533.839966,0.0056,0.2385,0.0,0.0,0.0,1534.084066
+2012,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,79760.34375,43.372,316.145,0.0,0.0,0.0,80119.86075
+2012,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,6721.0,68600.0,0.0,0.0,0.0,0.0,75321.0
+2012,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,69881.0,39.844,691.65,0.0,0.0,0.0,70612.494
+2012,MBBT1000040 (Waskada),Manitoba,Conventional Oil and Gas Extraction,Penn West Exploration,77716.30394,5187.263088,40.67114,0.0,0.0,0.0,82944.23817
+2011,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,43965.0,448756.0,0.0,0.0,0.0,0.0,492721.0
+2011,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,81608.619,83.636,405.98,0.0,0.0,0.0,82098.235
+2011,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,141500.7233,7.84,186.825,0.0,0.0,0.0,141695.3883
+2011,Metallurgical Complex,Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",40668.40679,30.268,566.57,0.0,0.0,0.0,41265.24479
+2011,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Industries Ltd.,86432.97281,7649.572112,3725.635,0.0,0.0,0.0,97808.17992
+2011,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,32209.604,27050.9148,394.373,0.0,0.0,0.0,59654.8918
+2011,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",608528.0,41566.98,52489.345,0.0,0.0,0.0,702584.325
+2011,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,12089.0,123396.0,0.0,0.0,0.0,0.0,135485.0
+2011,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1603.331055,0.028,0.53,0.0,0.0,0.0,1603.889055
+2011,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,80437.23438,43.7304,319.5105,0.0,0.0,0.0,80800.47528
+2011,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,7042.0,71876.0,0.0,0.0,0.0,0.0,78918.0
+2011,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,65687.0,38.416,707.55,0.0,0.0,0.0,66432.966
+2011,"Gerdau Ameristeel Corporation, Manitoba Mill",Manitoba,Iron and Steel Mills and Ferro-Alloy Manufacturing,Gerdau Ameristeel Corporation,52608.0,17.92,151.05,15.232,0.0,0.0,52792.202
+2011,Waskada,Manitoba,Conventional Oil and Gas Extraction,Penn West Exploration,51936.50987,4496.909256,23.3995,0.0,0.0,0.0,56456.81862
+2010,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,42372.0,432488.0,0.0,0.0,0.0,0.0,474860.0
+2010,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,57677.83,25.872,215.18,0.0,0.0,11.75,57930.632
+2010,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,146143.0023,23.0636,132.2085,0.0,0.0,0.0,146298.2744
+2010,Metallurgical Complex,Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",102242.1074,97.608,864.43,0.0,0.0,0.0,103204.1454
+2010,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Manitoba Kraft Papers,87976.78211,8157.96842,4045.755,0.0,0.0,0.0,100180.5055
+2010,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,18469.43794,17197.3982,222.1495,0.0,0.0,0.0,35888.98564
+2010,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",527278.0,117273.2389,41679.20186,0.0,0.0,0.0,686230.4408
+2010,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,12678.0,129416.0,0.0,0.0,0.0,0.0,142094.0
+2010,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1561.218018,2.408,12.72,0.0,0.0,0.0,1576.346018
+2010,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,84566.46094,45.92,339.2,0.0,0.0,0.0,84951.58094
+2010,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,7377.0,75292.0,0.0,0.0,0.0,0.0,82669.0
+2010,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,51144.0,20.132,662.5,0.0,0.0,0.0,51826.632
+2009,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,416080.0,0.0,0.0,0.0,0.0,416080.0
+2009,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,167265.449,54.264,567.895,0.0,0.0,0.0,167887.608
+2009,Faulkner Plant,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,136547.8362,19.488,125.61,0.0,0.0,0.0,136692.9342
+2009,Metallurgical Complex,Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",164568.7442,162.204,1243.38,0.0,0.0,0.0,165974.3282
+2009,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Manitoba Kraft Papers,82895.1637,7654.080112,4012.1,0.0,0.0,0.0,94561.34381
+2009,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,82230.59419,63631.77551,937.358,0.0,0.0,0.0,146799.7277
+2009,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",597803.0,93990.95726,45980.15053,0.0,0.0,0.0,737774.1078
+2009,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,135548.0,0.0,0.0,0.0,0.0,135548.0
+2009,General Scrap - Winnipeg,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1271.800049,0.0,0.265,0.0,0.0,0.0,1272.065049
+2009,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Limited,82294.14063,45.64,333.9,0.0,0.0,0.0,82673.68063
+2009,Kilcona Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,78848.0,0.0,0.0,0.0,0.0,78848.0
+2009,Thompson Operations,Manitoba,Nickel-Copper Ore Mining,Thompson Operations,55547.0,15.484,564.45,0.0,0.0,0.0,56126.934
+2008,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,399420.0,0.0,0.0,0.0,0.0,399420.0
+2008,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,465802.464,126.924,1551.575,0.0,0.0,0.0,467480.963
+2008,Faulkner,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,157404.9291,21.364,137.8,0.0,0.0,0.0,157564.0931
+2008,"HBM&S Co., Limited - Metallurgical Complex",Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",183423.2337,181.076,1394.165,0.0,0.0,0.0,184998.4747
+2008,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,252441.1831,45850.00188,2893.8,0.0,0.0,0.0,301184.985
+2008,"Koch Fertilizer Canada, ULC",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, ULC",592999.0,47040.56067,47707.95133,0.0,0.0,0.0,687747.512
+2008,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,141988.0,0.0,0.0,0.0,0.0,141988.0
+2008,General Scrap,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1892.0,0.0,0.0,0.0,0.0,0.0,1892.0
+2008,Minnedosa Ethanol Plant,Manitoba,Other Basic Organic Chemical Manufacturing,Husky Oil Operations Ltd,80204.0,43.12,390.08,0.0,0.0,0.0,80637.2
+2007,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,382200.0,0.0,0.0,0.0,0.0,382200.0
+2007,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,475471.048,169.204,1737.075,0.0,0.0,0.0,477377.327
+2007,Faulkner,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,152808.5453,20.188,131.175,0.0,0.0,0.0,152959.9083
+2007,"HBM&S Co., Limited - Metallurgical Complex",Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",181647.4639,181.86,1357.065,0.0,0.0,0.0,183186.389
+2007,"TransCanada Pipeline, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,438548.0083,12694.70409,5040.141,0.0,0.0,0.0,456282.8533
+2007,"Koch Fertilizer Canada, Ltd.",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, Ltd.",632963.0,51664.2,53251.75186,0.0,0.0,0.0,737878.9519
+2007,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,148820.0,0.0,0.0,0.0,0.0,148820.0
+2007,General Scrap,Manitoba,All Other Miscellaneous Manufacturing,General Scrap Partnership,1538.800049,0.0,0.0,0.0,0.0,0.0,1538.800049
+2006,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,364560.0,0.0,0.0,0.0,0.0,364560.0
+2006,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,387956.752,141.904,1504.405,0.0,0.0,235.0,389838.061
+2006,Faulkner,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,157582.7294,21.308,137.27,0.0,0.0,0.0,157741.3074
+2006,"HBM&S Co., LTD. - Metallurgical Complex",Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,"HBM&S Co., Limited",181149.9058,175.0,1250.8,0.0,0.0,0.0,182575.7057
+2006,"TransCanada Pipeline System, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,541358.4675,17564.79192,6345.954735,0.0,0.0,0.0,565269.2142
+2006,"Koch Fertilizer Canada, Ltd.",Manitoba,Chemical Fertilizer (except Potash) Manufacturing,"Koch Fertilizer Canada, Ltd.",637026.0,56712.04067,44543.85186,0.0,0.0,0.0,738281.8925
+2006,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,155904.0,0.0,0.0,0.0,0.0,155904.0
+2006,Health Sciences Centre,Manitoba,General (except Paediatric) Hospitals,Health Sciences Centre,23446.69922,12.852,115.01,1.3,0.0,0.0,23575.86122
+2005,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,346248.0,0.0,0.0,0.0,0.0,346248.0
+2005,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,585052.878,190.316,2413.09,0.0,0.0,0.0,587656.284
+2005,Faulkner,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,152506.5709,20.132,179.935,0.0,0.0,0.0,152706.6379
+2005,"HBM&S Co., LTD. - Metallurgical Complex",Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,HBM&S Co. Ltd.,195644.2275,189.84,1452.2,70.2,0.0,0.0,197356.4675
+2005,"TransCanada Pipeline System, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,618334.2375,40130.86008,7258.350265,0.0,0.0,0.0,665723.4478
+2005,Simplot Canada Limited,Manitoba,Chemical Fertilizer (except Potash) Manufacturing,Simplot Canada Limited,698914.0,111574.4,47699.99947,0.0,0.0,0.0,858188.3995
+2005,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,0.0,163436.0,0.0,0.0,0.0,0.0,163436.0
+2004,Brady Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,31780.0,393148.0,0.0,0.0,0.0,0.0,424928.0
+2004,Brandon Generating Station,Manitoba,Fossil-Fuel Electric Power Generation,Manitoba Hydro,355576.767,156.072,1671.62,0.0,0.0,0.0,357719.018
+2004,Faulkner,Manitoba,Lime Manufacturing,Graymont Western Canada Inc.,138065.0084,19.012,179.67,0.0,0.0,0.0,138993.2824
+2004,"HBM&S Co., LTD. - Metallurgical Complex",Manitoba,Non-Ferrous Metal (except Aluminum) Smelting and Refining,HBM&S Co. Ltd.,201280.0625,189.28,1491.95,88.4,0.0,0.0,203049.6925
+2004,Manitoba Kraft Papers Division,Manitoba,Paper (except Newsprint) Mills,Tolko Manitoba Kraft Papers,107519.7338,389.032,2715.985,0.0,0.0,0.0,110624.7508
+2004,"Rapid City compressor station -30, Manitoba",Manitoba,Pipeline Transportation of Natural Gas,TransCanada PipeLines Ltd.,430749.0,28667.24,5000.550265,0.0,0.0,0.0,473796.7903
+2004,Simplot Canada Limited,Manitoba,Chemical Fertilizer (except Potash) Manufacturing,Simplot Canada Limited,577854.0,85967.84,44761.15186,0.0,0.0,0.0,709349.7519
+2004,Summit Road Landfill,Manitoba,Waste Treatment and Disposal,Water & Waste Department,16642.0,205688.0,0.0,0.0,0.0,0.0,222330.0

@@ -1,0 +1,21 @@
+Province,Baseline Year,Target Year,Target Type,Sector,Reduction Lower Bound,Reduction Upper Bound,Unit,Notes
+British Columbia,2007.0,2025,Overall,All,16,16,%,N/A
+British Columbia,2007.0,2030,Overall,All,40,40,%,N/A
+British Columbia,2007.0,2040,Overall,All,60,60,%,N/A
+British Columbia,2007.0,2050,Overall,All,80,80,%,N/A
+British Columbia,2007.0,2030,Sector,Transportation,27,32,%,N/A
+British Columbia,2007.0,2030,Sector,Industry,38,43,%,N/A
+British Columbia,2007.0,2030,Sector,Oil and Gas,33,38,%,N/A
+British Columbia,2007.0,2030,Sector,Buildings & Communities,59,64,%,N/A
+Alberta,2014.0,2025,Sector,Methane Emissions,45,45,%,Reduction below 2014 levels
+Alberta,2014.0,N/A,Sector,Oil Sands,100,100,megatonnes,Cap: emissions not to exceed 100 megatonnes/year
+Manitoba,N/A,2023–2027,Overall,All,5.6,5.6,megatonnes,Cumulative reduction target
+New Brunswick,1990.0,2030,Overall,All,35,45,%,Compared to 1990 levels
+New Brunswick,2001.0,2050,Overall,All,75,85,%,Compared to 2001 levels
+Nova Scotia,2005.0,2030,Overall,All,53,53,%,N/A
+Ontario,2005.0,2030,Overall,All,30,30,%,N/A
+Ontario,2005.0,2050,Overall,All,80,80,%,N/A
+Prince Edward Island,1990.0,Post-2030,Overall,All,<1.2,<1.2,megatonnes,Annual target: less than 1.2 megatonnes
+Quebec,1990.0,2030,Overall,All,37.5,37.5,%,N/A
+Saskatchewan,2005.0,2030,Sector,Electricity Generation,40,40,%,N/A
+Newfoundland & Labrador,2005.0,2030,Overall,All,30,30,%,Reduce emissions by 30% below 2005 levels
