@@ -3,8 +3,8 @@ Actionable, province-level insights connecting federal facility-level GHG data t
 
 ## 📦 Data
 Place the required CSVs in `data/`:
-- `emissions_facility_level.csv` – facility-level emissions across country
-- `provincial_targets.csv` – provincial targets 
+- `GHGEmissions.csv` – facility-level emissions across country
+- `ProvincialTargets.csv` – provincial targets 
 
 ## 🛠️ Environment
 - Python 3.11+
