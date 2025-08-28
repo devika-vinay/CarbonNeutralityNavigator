@@ -11,10 +11,6 @@ Place the required CSVs in `data/`:
 - `pip install -r requirements.txt` 
 
 ## ▶️ How to run
-Each script can be run standalone:
+Each script can be run standalone, eg:
 ```bash
 python src/phase1_ingestion_cleaning.py
-python src/phase2_bc.py
-python src/phase3_ab_mb.py
-python src/phase4_nb_ns.py
-python src/phase5_on_pei.py
