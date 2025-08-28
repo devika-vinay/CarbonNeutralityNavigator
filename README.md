@@ -2,7 +2,7 @@
 Actionable, province-level insights connecting federal facility-level GHG data to provincial targets to assess alignment with Canada’s 2050 carbon-neutrality objective. 
 
 ## 📦 Data
-Place the required CSVs in `data/`:
+CSVs read from `data/`:
 - `GHGEmissions.csv` – facility-level emissions across country
 - `ProvincialTargets.csv` – provincial targets 
 
